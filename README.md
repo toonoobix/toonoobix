@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, I'm toonoobix 👋
 
-<!--
-**toonoobix/toonoobix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Japan.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- rewrites it once, then leaves it alone
+- currently deep in serverless
+- reading docs more than books lately
+- keeps notes about serverless that will never be published
+- learning TypeScript the slow way
+
+<img src="https://img.shields.io/badge/Node.js-ff7b72?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/React-ff7b72?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Express-ff7b72?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-ff7b72?style=for-the-badge&logoColor=white" alt="TypeScript" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=toonoobix&theme=merko&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonoobix&layout=compact&langs_count=8&hide_border=true&theme=merko" alt="Top languages" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://img.shields.io/github/followers/toonoobix?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/toonoobix"><img src="https://img.shields.io/badge/GitHub-@toonoobix-ff7b72?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Reach me on GitHub — @toonoobix. Say hi if you like.</sub>
